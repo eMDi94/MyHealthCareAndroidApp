@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyHealthCareAndroidApp</string>
+    <string name="auth_failure">Credenziali non valide</string>
+    <string name="loading_failure">Impossibile caricare le posologie</string>
+    <string name="logout">Logout</string>
+    <string name="logout_failure">Non è stato possibile effettuare il logout</string>
+    <string name="force_reload">Aggiorna</string>
+</resources>
